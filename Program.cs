@@ -7,7 +7,7 @@ namespace CiteTrack
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine("Hello World!!! " + DateTime.UtcNow);
+			Console.WriteLine("Hello World 2!!! " + DateTime.UtcNow);
 			Thread.Sleep(1000);
 		}
 	}
